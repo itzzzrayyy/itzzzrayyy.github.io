@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of M Rayyan Ahmed', description: '', imageURL: '' },
   social: {
     linkedin: 'https://www.linkedin.com/in/rayyan28/',
     x: '-',
